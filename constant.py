@@ -1,0 +1,2 @@
+token = "352043648:AAGbJd9n8AYTMJxwM44_FOOWfC89ttzEoiI"
+app_id = "5f1f21a938b775396f1ed98a0d7f803c"
